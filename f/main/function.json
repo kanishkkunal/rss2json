@@ -1,0 +1,12 @@
+{
+  "name": "main",
+  "description": "Function",
+  "args": [
+  ],
+  "kwargs": {
+    "url": "RSS Feed URL that will be converted to JSON"
+  },
+  "http": {
+    "headers": {}
+  }
+}

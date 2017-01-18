@@ -1,0 +1,17 @@
+{
+  "name": "rss2json",
+  "version": "0.0.2",
+  "description": "RSS to JSON conversion Service",
+  "author": "kanishkkunal <kanishkkunal@gmail.com>",
+  "main": "f/main/index.js",
+  "dependencies": {
+    "rss-to-json": "^1.0.2"
+  },
+  "private": true,
+  "stdlib": {
+    "name": "kanishkkunal/rss2json",
+    "defaultFunction": "main",
+    "timeout": 10000,
+    "publish": true
+  }
+}
