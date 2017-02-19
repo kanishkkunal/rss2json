@@ -1,6 +1,6 @@
 # RSS to JSON conversion as service
 
-This is a simple RSS to JSON conversion service. It can be used to Fetch RSS feed in browser without front-end or back-end dependeces.
+This is a simple RSS to JSON conversion service. It can be used to Fetch RSS feed in browser without front-end or back-end dependencies.
 
 ## How to Use
 
